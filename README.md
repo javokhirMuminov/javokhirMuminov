@@ -29,4 +29,4 @@
 
 
 
-**<a href="" target="_blank">Barcha loyihalar</a>**
+**<a href="https://github.com/javokhirMuminov?tab=repositories" target="_blank">Barcha loyihalar</a>**
