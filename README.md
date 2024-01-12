@@ -21,8 +21,8 @@
 
 
 ## So'ngi loyhalar
-<img src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1633619397%2FChallenges%2Ffhzpdnabrek50hvhftnl.jpg&w=384&q=75" width="250"/>
-|   |   |
+
+| Preview  |  Tarif  |
 |---|---|
-|   |   |
+| <img src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1633619397%2FChallenges%2Ffhzpdnabrek50hvhftnl.jpg&w=384&q=75" width="250"/>  | ** Ecommerce product page** <br>Onlayn do'konning mahsulot haqida malumotsahifasi <br></br>  <a href=" |
 |   |   |
